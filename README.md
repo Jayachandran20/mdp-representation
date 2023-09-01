@@ -31,15 +31,32 @@ R = { +1 , if we come closer to the expected temperature
 Write your answer here
 
 ## PYTHON REPRESENTATION:
-Write your code here
+```
+P = {
+    0:{
+        0: [(1.0,0,0.0,True)],
+        1: [(1.0,0,0.0,True)]
+    },
+    1:{
+        0: [(1.0,0,0.0,True)],
+        1: [(1.0,2,1.0,True)]
+    },
+    2:{
+        0: [(1.0,2,0.0,True)],
+        1: [(1.0,2,0.0,True)]
+    }
+}
+```
 
 ## OUTPUT:
-Write your Python output here
+{0: {0: [(1.0, 0, 0.0, True)], 1: [(1.0, 0, 0.0, True)]},
+ 1: {0: [(1.0, 0, 0.0, True)], 1: [(1.0, 2, 1.0, True)]},
+ 2: {0: [(1.0, 2, 0.0, True)], 1: [(1.0, 2, 0.0, True)]}}
 
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
-1)Text representation
-2)Graphical representation
-3)Python - Dictonary representation
+#1)Text representation
+#2)Graphical representation
+#3)Python - Dictonary representation
 
 
