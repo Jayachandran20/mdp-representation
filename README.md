@@ -10,8 +10,6 @@ To represent a Markov Decision Process(MDP) problem in the following ways.
 ```
 ## PROBLEM STATEMENT:
 To find wheather it is a profit or loss on buying and selling of a particular product in a grocery shop
-### Problem Description
-Write your answer here
 
 ### State Space
 biscuts and chips
@@ -30,10 +28,14 @@ R = { +1 , if we come closer to the expected temperature
        0 , otherwise
 ```
 ### Graphical Representation
-Write your answer here
+![rein](https://github.com/Jayachandran20/mdp-representation/assets/118447015/269f73a0-a70e-4c6a-941c-2a810f762b96)
+
 
 ## PYTHON REPRESENTATION:
 ```
+NAME: M.JAYACHANDRAN
+REG NO: 212222240038
+
 P = {
     0:{
         0: [(1.0,0,0.0,True)],
