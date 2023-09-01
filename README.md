@@ -1,27 +1,31 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+To represent a Markov Decision Process(MDP) problem in the following ways.
+
+1)Text representation
+2)Graphical representation
+3)Python - Dictonary representation
 
 ## PROBLEM STATEMENT:
-
+To find wheather it is a profit or loss on buying and selling of a particular product in a grocery shop
 ### Problem Description
 Write your answer here
 
 ### State Space
-Write your answer here
+biscuts and chips
 
 ### Sample State
-Write your answer here
+chips
 
 ### Action Space
-Write your answer here
+buying and selling
 
 ### Sample Action
-Write your answer here
-
+move right (selling)
 ### Reward Function
-Write your answer here
+R = { +1 , if we come closer to the expected temperature
+       0 , otherwise
 
 ### Graphical Representation
 Write your answer here
@@ -33,5 +37,9 @@ Write your code here
 Write your Python output here
 
 ## RESULT:
-Write your output here
+Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
+1)Text representation
+2)Graphical representation
+3)Python - Dictonary representation
+
 
