@@ -8,9 +8,6 @@ To represent a Markov Decision Process(MDP) problem in the following ways.
 2)Graphical representation
 3)Python - Dictonary representation
 ```
-## PROBLEM STATEMENT:
-To find wheather it is a profit or loss on buying and selling of a particular product in a grocery shop
-
 ### State Space
 biscuts and chips
 
@@ -61,8 +58,8 @@ P = {
 ## RESULT:
 ```
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
-#1)Text representation
-#2)Graphical representation
-#3)Python - Dictonary representation
+1)Text representation
+2)Graphical representation
+3)Python - Dictonary representation
 ```
 
